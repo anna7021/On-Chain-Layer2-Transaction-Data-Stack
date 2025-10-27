@@ -2,8 +2,6 @@
 A high-performance Python pipeline for **sampling, normalizing, and storing blockchain Layer-2 transactions** using **Hypersync**, **PyArrow**, and **DuckDB**.
 Only displays the .parquet file and data validation (time series charts) here.
 
-------
-
 ## Overview
 
 This project implements a complete on-chain data workflow:
